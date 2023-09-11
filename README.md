@@ -36,6 +36,15 @@
 
 <h2></h2><br>
 
+<!-- Github Trophy -->
+<div align="center">
+  <table>
+    <tr>
+      <td><a href="#--------"><img align="center" alt="GitHub Trophy" src="https://github-trophies.vercel.app/?username=Raiden-16F7&rank=SECRET,SSS,SS,S,AAA,AA,A&row=2&column=3&margin-w=15&margin-h=15&no-frame=true&theme=nord"></a></td>
+    </tr>
+  </table>
+</div>
+
 <!-- Profile Views Badge -->
 <p align="center">
   <samp>
@@ -45,6 +54,15 @@
   </samp>
 </p>
 
+<!-- Github Stats -->
+<div align="center">
+  <table>
+    <tr>
+      <td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Raiden-16F7&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=nord"/></a></td>
+      <td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raiden-16F7&layout=compact&line_height=21&hide_border=true&theme=nord"/></a></td>
+    </tr>
+  </table>
+</div>
 
 
 
