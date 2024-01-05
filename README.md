@@ -8,7 +8,7 @@
       <b>
         Hello There
       <br>
-        I'm Fahad, a Student, An Aesthetic's Enthusiast, Vim User, System Customizer.
+        I'm Fahad, a Developer, An Aesthetic's Enthusiast, Vim User, System Customizer.
       </b>
       <br>
         <image src="https://readme-typing-svg.herokuapp.com?font=Jetbrains-Mono&size=16&color=866bff&center=true&width=410&height=45&lines=I+code+beautiful+and+aesthetic+programs.">
