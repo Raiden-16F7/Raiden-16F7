@@ -118,12 +118,12 @@
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
-    <a href="https://github.com/Raiden-16F7/arasakavs"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Raiden-16F7&repo=arasakavs&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&border_radius=20" alt="arasakaVS"></a>
-    <a href="https://github.com/Raiden-16F7/catvimstartpage"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Raiden-16F7&repo=catvimstartpage&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&border_radius=20" alt="startpage"></a>
-    <a href="https://github.com/Raiden-16F7/tourxpress"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Raiden-16F7&repo=tourxpress&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&border_radius=20" alt="tourxpress"></a>
-    <a href="https://github.com/Raiden-16F7/vegagpt"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Raiden-16F7&repo=vegagpt&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&border_radius=20" alt="vegagpt"></a>
-    <a href="https://github.com/Raiden-16F7/cyberpunkwebdesign"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Raiden-16F7&repo=cyberpunkwebdesign&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&border_radius=20" alt="webdesign"></a>
-    <a href="https://github.com/Raiden-16F7/jewelleryapp"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Raiden-16F7&repo=jewelleryapp&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&border_radius=20" alt="jewellweyapp"></a>
+    <a href="https://github.com/Raiden-16F7/arasakavs"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Raiden-16F7&repo=arasakavs&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&border_radius=20" alt="arasakaVS"></a>
+    <a href="https://github.com/Raiden-16F7/expo-qrcode-scanner"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Raiden-16F7&repo=expo-qrcode-scanner&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&border_radius=20" alt="startpage"></a>
+    <a href="https://github.com/Raiden-16F7/tourxpress"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Raiden-16F7&repo=tourxpress&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&border_radius=20" alt="tourxpress"></a>
+    <a href="https://github.com/Raiden-16F7/catvimstartpage"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Raiden-16F7&repo=catvimstartpage&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&border_radius=20" alt="vegagpt"></a>
+    <a href="https://github.com/Raiden-16F7/cyberpunkwebdesign"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Raiden-16F7&repo=cyberpunkwebdesign&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&border_radius=20" alt="webdesign"></a>
+    <a href="https://github.com/Raiden-16F7/jewelleryapp"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Raiden-16F7&repo=jewelleryapp&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&border_radius=20" alt="jewellweyapp"></a>
 </p>
 
 <a href="https://github.com/Raiden-16F7?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
@@ -167,7 +167,7 @@
 <p align="center">
   <samp>
   <a href="#--------">
-    <img src="https://komarev.com/ghpvc/?username=raiden-16f7&label=Profile+Views&color=grey" alt="profile views" /> 
+    <img src="https://komarev.com/ghpvc/?username=raiden-16f7&label=Profile+Views&color=red" alt="profile views" /> 
   </a>
   </samp>
 </p>
